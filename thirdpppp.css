@@ -1,0 +1,97 @@
+body{
+    width: 1085px;
+    height: 1730px;
+    margin:0px auto;   
+}
+.photo{
+    width: 21.25px;
+    height: 21.25px;
+}
+.my{
+    display:flex;
+    justify-content: space-between;
+    padding: 30px;
+    font-weight: 700;
+}
+ .firstphoto{
+    Width:1085px;
+    Height:488px;
+    margin-top: 10px;
+    display: grid;
+ }
+ .insert{
+   position: absolute;
+   top: 399px;
+   left: 160px;
+   width: 690px;
+   font-weight: 700;
+   line-height: 15px;
+   color: #fff;
+ }
+ .container{
+    display: flex;
+    margin: 40px 30px;
+    justify-content: space-around;
+ }
+ .container2{
+    display: flex;
+    margin: 40px 30px;
+    justify-content: space-around;
+ }
+ .photoaa{
+    border: 2px solid none;
+    width: 309px;
+    height: 393px;
+ }
+ .photoaa p{
+   margin: 10px 0;
+ }
+ .photoa{
+    width: 309px;
+    height: 232px;
+ }
+ .photobb{
+    border: 2px solid none;
+    width: 309px;
+    height: 393px;
+ }
+ .photobb p{
+   margin: 10px 0;
+ }
+ .photob{
+    width: 309px;
+    height: 232px;
+ }
+ .photocc{
+    border: 2px solid none;
+    width: 309px;
+    height: 393px;
+ }
+ .photocc p {
+   margin: 10px 0;
+ }
+ .photoc{
+    width: 309px;
+    height: 232px;
+ }
+ .last{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    Width:1085px;
+    Height:105px;
+ }
+ .view{
+    justify-content: center;
+    text-align: center;
+    padding: 25px;
+    font-size: 15px;
+    font-weight: 700;
+ }
+ .last p{
+    padding: 0%;
+    margin: 0%;
+ }
